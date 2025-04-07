@@ -1,3 +1,5 @@
 Instructions:
 
 If running alone, run the 'run_flask.command' then minimize it and open up a new terminal window to use curl.
+
+This flask was run using the BYU Crabtree public IP so if used alone, use your local IP or '0.0.0.0' on port 8080.
