@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /images
+Disallow: /assets
+Disallow: /assets/data.html
+Disallow: /api/start
+Disallow: /api/headers
+
+Allow: /index.html

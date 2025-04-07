@@ -1,0 +1,3 @@
+Instructions:
+
+If running alone, run the 'run_flask.command' then minimize it and open up a new terminal window to use curl.
